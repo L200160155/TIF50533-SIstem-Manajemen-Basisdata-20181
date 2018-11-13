@@ -2,6 +2,26 @@
 Catatan kuliah semester Ganjil 2018
 
 
+## Pengumuman
+
+*Tugas pengganti kelas hari Rabu, 14 November 2018*
+
+Buatlah sebuah **store procedure** untuk mendapatkan informasi berikut:
+
+# id_pelanggan | nama_pelanggan | shipped | cancelled
+
+**Kolom dibaca dari tabel**  *customers*
+
+id_pelanggan = customerNumber  (INPUT); nama_pelanggan = customerName (OUTPUT)
+ 
+**Kolom dihitung dari tabel** *Orders*  
+
+shipped = Jumlah order yang terkirim (OUTPUT); cancelled = Jumlah order yang di batalkan (OUTPUT)
+
+**Simpan store procedure tersebut dalam SERVER DATABASE yang telah diberikan**
+
+-------------------------------------------------------- 
+
 ## Bahan UTS
 
 1. Database *classicmodels*
