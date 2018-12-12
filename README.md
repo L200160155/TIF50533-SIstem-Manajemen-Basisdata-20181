@@ -2,6 +2,10 @@
 Catatan kuliah semester Ganjil 2018
 
 
+## MySQL CLI - [Cheatsheet](http://www.cheatography.com/guslong/cheat-sheets/essential-mysql/) 
+
+
+
 ## Pengumuman
 
 *Tugas pengganti kelas hari Rabu, 14 November 2018*
