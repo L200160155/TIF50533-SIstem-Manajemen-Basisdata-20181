@@ -1,31 +1,27 @@
 # TIF50533-SIstem-Manajemen-Basisdata-20181
 Catatan kuliah semester Ganjil 2018
 
+## Bahan UAS
+
+1. Database *classicmodels*
+2. Trigger
+3. Fulltext-search
+
+note: *open cheatsheet 1 lembar A4*
+
+## Tugas tambahan (bagi yang belum mengikuti UTS)
+
+1. Buatlah sebuah ER-diagram dari database **classicmodels** dalam satu halaman!
+2. Jelaskan apa perbedaan antara **Trigger** dan **Event**?, buatlah contoh penerapan yang dapat menunjukkan perbedaan diantar keduannya keduanya!
+3. Buatlah **Trigger** untuk memonitor username dan tanggal transaksi penjualan!
+
+Jawaban ditulis dengan tangan, scan dengan resolusi 600dpi (minimal), simpman dalam bentuk file PDF dan kirimkan ke email (bana.handaga@ums.ac.id) dengan subject **"NIM | DBMS:Tugas khusus"**. NIM diganti dengan nomor induk mahasiswa yang sebenarnya. 
+
 
 ## MySQL CLI - [Cheatsheet](http://www.cheatography.com/guslong/cheat-sheets/essential-mysql/) 
 
 
-
-## Pengumuman
-
-*Tugas pengganti kelas hari Rabu, 14 November 2018*
-
-Buatlah sebuah **store procedure** untuk mendapatkan informasi berikut:
-
-# id_pelanggan | nama_pelanggan | shipped | cancelled
-
-**Kolom dibaca dari tabel**  *customers*
-
-id_pelanggan = customerNumber  (INPUT); nama_pelanggan = customerName (OUTPUT)
- 
-**Kolom dihitung dari tabel** *Orders*  
-
-shipped = Jumlah order yang terkirim (OUTPUT); cancelled = Jumlah order yang di batalkan (OUTPUT)
-
-**Simpan store procedure tersebut dalam SERVER DATABASE yang telah diberikan**
-
 -------------------------------------------------------- 
-
 ## Bahan UTS
 
 1. Database *classicmodels*
